@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-10-09T20:20:04+00:00",
+  "checked_at": "2026-10-10T11:04:06+00:00",
   "feeds": [
     {
       "source": "arXiv — ion traps & mass spectrometry",
       "status": "PASS",
       "matched": 2,
-      "new": 2
+      "new": 0
     },
     {
       "source": "arXiv — nuclear masses, Q-values & astrophysics",
@@ -16,20 +16,20 @@
     {
       "source": "INSPIRE-HEP Jobs — nuclear physics",
       "status": "PASS",
-      "matched": 9,
+      "matched": 4,
       "new": 0
     },
     {
       "source": "APS Physics — news",
       "status": "PASS",
       "matched": 24,
-      "new": 2
+      "new": 0
     },
     {
       "source": "Phys.org — nuclear physics",
       "status": "PASS",
       "matched": 30,
-      "new": 5
+      "new": 4
     },
     {
       "source": "Physical Review Letters — Nuclear Physics",
@@ -51,8 +51,9 @@
     },
     {
       "source": "Nature Physics",
-      "status": "FAILED",
-      "error": "not well-formed (invalid token): line 14, column 4"
+      "status": "PASS",
+      "matched": 4,
+      "new": 3
     },
     {
       "source": "TRIUMF news",
@@ -64,7 +65,7 @@
       "source": "GANIL news",
       "status": "PASS",
       "matched": 10,
-      "new": 1
+      "new": 0
     },
     {
       "source": "ECT* news & workshops",
