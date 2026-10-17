@@ -1,21 +1,21 @@
 {
-  "checked_at": "2026-10-16T19:04:02+00:00",
+  "checked_at": "2026-10-17T06:14:25+00:00",
   "feeds": [
     {
       "source": "arXiv — ion traps & mass spectrometry",
       "status": "FAILED",
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "The read operation timed out"
     },
     {
       "source": "arXiv — nuclear masses, Q-values & astrophysics",
       "status": "FAILED",
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "The read operation timed out"
     },
     {
       "source": "INSPIRE-HEP Jobs — nuclear physics",
       "status": "PASS",
       "matched": 13,
-      "new": 4
+      "new": 0
     },
     {
       "source": "APS Physics — news",
@@ -33,7 +33,7 @@
       "source": "Physical Review Letters — Nuclear Physics",
       "status": "PASS",
       "matched": 30,
-      "new": 0
+      "new": 1
     },
     {
       "source": "Physical Review Letters — traps, masses & astrophysics",
@@ -44,7 +44,7 @@
     {
       "source": "Physical Review C",
       "status": "PASS",
-      "matched": 7,
+      "matched": 9,
       "new": 2
     },
     {
@@ -73,7 +73,7 @@
       "source": "IAEA — nuclear science news",
       "status": "PASS",
       "matched": 3,
-      "new": 2
+      "new": 0
     },
     {
       "source": "Ion Traps Newsletter (iontraps.net)",
