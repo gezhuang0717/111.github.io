@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "date": "2026-10-20",
+      "type": "job",
+      "title": "Postdoctoral Fellow in Nuclear Theory, Physics Division, Argonne National Laboratory — Argonne (main)",
+      "summary": "North America · deadline 2026-11-20 · POSTDOC. The Theory Group in the Physics Division at Argonne National Laboratory is seeking candidates for postdoctoral positions in nuclear theory, to begin as early as Spring 2026. The positions are for two years, with the possibility of…",
+      "url": "https://inspirehep.net/jobs/3216123",
+      "source": "INSPIRE-HEP Jobs — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-19",
+      "deadline": "2026-11-20",
+      "collected_at": "2026-10-20",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-20",
+      "type": "news",
+      "title": "Forgotten particle could answer mystery of why we exist, say physicists",
+      "summary": "Scientists have unveiled a new theory on the birth of the cosmos, suggesting the early universe was shaped by an ancient particle that has been overlooked for decades.",
+      "url": "https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-19",
+      "collected_at": "2026-10-20",
+      "verification_status": "feed-collected"
+    }
+  ],
+  "fetched": "2026-10-20T06:36:44+00:00"
+}
