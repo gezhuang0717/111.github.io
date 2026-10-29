@@ -93,7 +93,206 @@
       "published": "2026-10-28",
       "collected_at": "2026-10-29",
       "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "news",
+      "title": "Thought Experiment: Bright Visions of Future Energy",
+      "summary": "More than a century after scientists envisioned artificial photosynthesis and fusion power, neither has achieved widespread use—but slow progress is no reason to give up. [Physics 19, 144] Published Wed Oct 28, 2026",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.144",
+      "source": "APS Physics — news",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-28",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "news",
+      "title": "Light from Disordered Media",
+      "summary": "Author(s): Marric Stephens Researchers have proposed that structural disorder can be harnessed to generate coherent, directional light from the passage of a charged particle. [Physics 19, s135] Published Wed Oct 28, 2026",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s135",
+      "source": "APS Physics — news",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-28",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "news",
+      "title": "Electrical signals reveal hidden magnetic information in altermagnets for first time",
+      "summary": "Researchers have experimentally demonstrated, for the first time, that it is possible to obtain from an altermagnet a spin current that can transport magnetic information. This result is supported by the theoretical model of electron transport developed by the CFM group.…",
+      "url": "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-29",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "news",
+      "title": "A blue laser for underwater communication and sensing",
+      "summary": "Researchers at EPFL have developed a chip-scale blue laser that combines stable light emission with rapid frequency control, opening possibilities for underwater communication, environmental sensing and quantum technologies.",
+      "url": "https://phys.org/news/2026-10-blue-laser-underwater-communication.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-29",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "news",
+      "title": "Theoretical method uses light to locate anyons, potential quantum computing building blocks",
+      "summary": "Theoretical physicists at Emory University have discovered a way to use light to detect the \"spectral fingerprints\" of anyons—exotic quasiparticles that emerge from the collective behavior of many electrons. Their findings are published in Physical Review Letters. The work…",
+      "url": "https://phys.org/news/2026-10-theoretical-method-anyons-potential-quantum.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-10-29",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Precision Isotope-Shift Measurement of the ${^{1}S}_{0}↔{^{3}P}_{2}$ Transition and a Multitransition King-Plot Consistency Test",
+      "summary": "Author(s): Taiki Ishiyama, Koki Ono, Reiji Asano, Hokuto Kawase, Tetsushi Takano, Ayaki Sunaga, Yasuhiro Yamamoto, Minoru Tanaka, and Yoshiro Takahashi We present precision spectroscopy and isotope shift measurement of the ${^{1}S}_{0}↔{^{3}P}_{2}$ clock transition in neutral…",
+      "url": "http://link.aps.org/doi/10.1103/l9xq-8z1d",
+      "source": "Physical Review Letters — traps, masses & astrophysics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-28",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "$r$-process nuclei in the rare-earth region above $N=126$ in relativistic Hartree-Bogoliubov theory: A preponderance of shape coexistence in nuclei",
+      "summary": "Author(s): M. M. Sharma The shell structure of nuclei beyond $N=126$ relevant to the third peak at $A≈195$ in $r$-process nuclear abundances in investigated. Within the framework of the relativistic Hartree-Bogoliubov theory in deformed space, a comparative study of the…",
+      "url": "http://link.aps.org/doi/10.1103/h2hw-k3vw",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-28",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Physics-guided residual correction of $α$-decay half-lives based on the effective liquid drop model",
+      "summary": "Author(s): Qingning Yuan, Xuanpeng Xiao, Panpan Qi, Anqi Yang, Gongming Yu, Haitao Yang, Zhangyan Li, and Yanbing Cai To improve the prediction accuracy of $α$-decay half-lives in heavy and superheavy nuclei, a physics-guided residual-correction framework combining the…",
+      "url": "http://link.aps.org/doi/10.1103/7gm3-2y7f",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-28",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Probing neutron skin through event-by-event pion asymmetry in heavy-ion collisions",
+      "summary": "Author(s): Xu-Hua Tian and Long-Gang Pang In this work, we propose a novel approach for probing the neutron skin thickness of gold (Au) by analyzing the event-by-event distribution of ${π}^{−}$ and ${π}^{+}$ yield differences. This is achieved through SMASH simulations of…",
+      "url": "http://link.aps.org/doi/10.1103/bw3p-lpg6",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-28",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Cyclotron radiation signal characterization in resonant cavities for the Project 8 neutrino mass experiment",
+      "summary": "Author(s): A. Ashtari Esfahani et al. (Project 8 Collaboration) Many experimental methods in physics require understanding radiation from single particles into nontrivial electromagnetic mode structures. Such characterization is critical for Cyclotron Radiation Emission…",
+      "url": "http://link.aps.org/doi/10.1103/zgxw-xghd",
+      "source": "Physical Review C",
+      "tags": [
+        "nuclear",
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-28",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Imaging hot-electron Thomson cooling beyond the Boltzmann–Onsager framework",
+      "summary": "Nature Physics, Published online: 29 October 2026; doi:10.1038/s41567-026-03510-1 Classical Thomson cooling is inefficient. Now non-equilibrium energy dissipation with a breakdown of the Boltzmann–Onsager limit is demonstrated by imaging hot electrons in HgTe and HgCdTe quantum…",
+      "url": "https://www.nature.com/articles/s41567-026-03510-1",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-29",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Order in a quantum chaotic sea",
+      "summary": "Nature Physics, Published online: 27 October 2026; doi:10.1038/s41567-026-03513-y Experiments with a superconducting quantum processor revealed an island of regular motion within otherwise chaotic quantum many-body dynamics and used feedback to steer the dynamics towards it.",
+      "url": "https://www.nature.com/articles/s41567-026-03513-y",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-27",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "A simple twist to altermagnetism",
+      "summary": "Nature Physics, Published online: 26 October 2026; doi:10.1038/s41567-026-03495-x Two-dimensional altermagnets hold promise for next-generation spintronics but remain difficult to synthesize. Now, altermagnetism has been observed in an orthogonally twisted van der Waals…",
+      "url": "https://www.nature.com/articles/s41567-026-03495-x",
+      "source": "Nature Physics",
+      "tags": [
+        "journal"
+      ],
+      "lang": "en",
+      "published": "2026-10-26",
+      "collected_at": "2026-10-29",
+      "verification_status": "feed-collected"
     }
   ],
-  "fetched": "2026-10-29T07:40:30+00:00"
+  "fetched": "2026-10-29T20:37:03+00:00"
 }
