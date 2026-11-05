@@ -188,7 +188,52 @@
       "published": "2026-11-04",
       "collected_at": "2026-11-05",
       "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "title": "Physicist develops detector capable of counting photons for quantum computing",
+      "summary": "Detecting a single photon is a challenge in itself. But what if you also want to know exactly how many photons arrive at a particular point at the same time? Physicist Erik Baalbergen is working on light detectors that can do just that. They form a key building block for the…",
+      "url": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-05",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "title": "After 40 years of searching, physicists find evidence for an ultrarare particle decay",
+      "summary": "Physicists at CERN report that they've detected evidence of a rare meson particle decay (B⁰→ µ⁺µ⁻) that occurs when the meson's beauty quark annihilates with a down-type quark. The pair decays into a muon and antimuon, which are particles similar to electrons. Because evidence…",
+      "url": "https://phys.org/news/2026-11-years-physicists-evidence-ultrarare-particle.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-05",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-05",
+      "type": "news",
+      "title": "When Einstein's gravitational waves meet Newton's tides",
+      "summary": "Newton's theory of gravity has described the tides accurately for centuries. But could a tiny trace of Einstein's general relativity also be hidden in them? In a new study, a mathematician at Freie Universität Berlin has outlined how a targeted approach could be used to search…",
+      "url": "https://phys.org/news/2026-11-einstein-gravitational-newton-tides.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-05",
+      "collected_at": "2026-11-05",
+      "verification_status": "feed-collected"
     }
   ],
-  "fetched": "2026-11-05T08:31:04+00:00"
+  "fetched": "2026-11-05T21:34:39+00:00"
 }
