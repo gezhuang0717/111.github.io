@@ -243,7 +243,67 @@
       "published": "2026-11-25",
       "collected_at": "2026-11-25",
       "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "title": "Creating Nature’s Magnetic Explosions in the Lab",
+      "summary": "Author(s): Haihong Che A new experiment decodes the small-scale physical processes responsible for large-scale, cosmic manifestations of magnetic reconnection. [Physics 19, 158] Published Wed Nov 25, 2026",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.158",
+      "source": "APS Physics — news",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-25",
+      "collected_at": "2026-11-25",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "title": "Getting More Photons Out of Quantum Memory",
+      "summary": "Author(s): Sophia Chen A new solid-state quantum memory combines multiple innovations to more efficiently store and retrieve photons. [Physics 19, s147] Published Wed Nov 25, 2026",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s147",
+      "source": "APS Physics — news",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-25",
+      "collected_at": "2026-11-25",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "title": "Protein Droplets Power Motorless Propulsion",
+      "summary": "Author(s): Ryan Wilkinson A new mechanism lets microscopic objects propel themselves using protein droplets without requiring molecular motors. [Physics 19, s157] Published Wed Nov 25, 2026",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s157",
+      "source": "APS Physics — news",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-25",
+      "collected_at": "2026-11-25",
+      "verification_status": "feed-collected"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "news",
+      "title": "New quantum network entangles 123 qubits that store information in atoms' positions",
+      "summary": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process. Their study, published in Physical Review Letters, describes a new platform for manipulating entangled atomic networks in…",
+      "url": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
+      "source": "Phys.org — nuclear physics",
+      "tags": [
+        "nuclear"
+      ],
+      "lang": "en",
+      "published": "2026-11-25",
+      "collected_at": "2026-11-25",
+      "verification_status": "feed-collected"
     }
   ],
-  "fetched": "2026-11-25T17:04:24+00:00"
+  "fetched": "2026-11-25T23:47:33+00:00"
 }
