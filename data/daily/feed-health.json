@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-11-26T14:55:35+00:00",
+  "checked_at": "2026-11-27T00:00:09+00:00",
   "feeds": [
     {
       "source": "arXiv — ion traps & mass spectrometry",
       "status": "PASS",
-      "matched": 3,
-      "new": 1
+      "matched": 2,
+      "new": 0
     },
     {
       "source": "arXiv — nuclear masses, Q-values & astrophysics",
       "status": "PASS",
-      "matched": 4,
+      "matched": 3,
       "new": 0
     },
     {
@@ -83,7 +83,7 @@
       "source": "Ion Traps Newsletter (iontraps.net)",
       "status": "PASS",
       "matched": 10,
-      "new": 2
+      "new": 1
     }
   ]
 }
